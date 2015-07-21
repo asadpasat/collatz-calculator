@@ -1,0 +1,2 @@
+# collatz-calculator
+This is collatz calculator that counts how many steps it will take for the number to reach 1. Except the calculator counts it based on the different mods of the number. So it does not take the whole sequence as you would do normally for the collatz conjecture. Sometimes the program fails and prints out the wrong number of steps, but this can be easily eliminated by just adding more mod restrictions into the if statements. 
